@@ -1,4 +1,4 @@
-- name: My first play
+- namex: My first play
   hosts: virtualmachines
   tasks:
    - name: Ping my hosts
